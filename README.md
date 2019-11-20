@@ -1,6 +1,6 @@
-# Aplikasi LPSE Kabupaten LombokTengah
+# Petunjuk Penggunaan Github Aplikasi di LPSE Kabupaten Lombok Tengah
 
-## RINGKASAN :
+## Langkah-langkah :
 
 ```bash
 $ git config --global user.name "Sunarno007"
