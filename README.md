@@ -1,4 +1,4 @@
-# AplikasiLPSELombokTengah
+# Aplikasi LPSE Kabupaten LombokTengah
 
 ## RINGKASAN :
 
